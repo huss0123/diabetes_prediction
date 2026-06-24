@@ -6,3 +6,4 @@ numpy
 plotly
 scikit-learn==1.8.0
 openai
+imbalanced-learn
